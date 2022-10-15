@@ -1,0 +1,26 @@
+.img_main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: auto;
+}
+
+h1 {
+    color:orangered;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    text-align: center; 
+    list-style-position: inside;
+}
+
+button {
+    background-color: orange;
+}
+
+body {
+    background-color: rgb(148, 122, 83);
+}
